@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'MS Sans Serif';
+}
+
+#container {
+  min-height: 100vh;
+  background-color: lightgoldenrodyellow;
+  /* border: solid black .1rem; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
